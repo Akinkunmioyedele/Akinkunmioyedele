@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Akinkunmi Oyedele (@Akinkunmioyedele)
+# 👋 Hi, I’m Uziman Oyedele (@Akinkunmioyedele)
 
 Welcome to my GitHub profile! I'm Usman, a Test Analyst with over 5 years of experience in the software testing world. I’m passionate about making software better through detailed UI, API, and database testing. I love diving into both manual and automated testing, always aiming to improve quality and streamline processes. Integrating testing into CI/CD pipelines is something I focus on to ensure smooth and efficient deployments.
 
