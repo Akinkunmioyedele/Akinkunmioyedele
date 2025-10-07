@@ -47,7 +47,7 @@ Skilled in **Agile delivery**, **defect lifecycle management**, and **test strat
 
 ## 🏆 Key Open Source Projects  
 
-### 🔹 [RestfulBooker API Test Automation Framework](https://github.com/Akinkunmioyedele/CSharp-RestfulAPI-TestAutomation)
+### 🔹 [RestfulBooker API Test Automation Framework](https://github.com/uzimanOye-QA/CSharp-RestfulAPI-TestAutomation)
 A comprehensive API automation framework demonstrating **end-to-end CRUD testing**, **authentication handling**, and **BDD** with **Reqnroll**.  
 - Built in **C# (.NET 8)** using **RestSharp**, **NUnit**, and **ExtentReports**.  
 - Integrated automated API tests into **Azure DevOps CI/CD pipelines**.  
@@ -56,7 +56,7 @@ A comprehensive API automation framework demonstrating **end-to-end CRUD testing
 
 ---
 
-### 🔹 [DemoBlaze Web UI Test Automation Framework](https://github.com/Akinkunmioyedele/DemoBlaze-Automation)
+### 🔹 [DemoBlaze Web UI Test Automation Framework](https://github.com/uzimanOye-QA/CSharp-UI-TestAutomation)
 An **end-to-end web UI automation framework** for the DemoBlaze e-commerce platform.  
 - Developed using **C#, Selenium WebDriver, SpecFlow (BDD)**, and **ExtentReports**.  
 - Implemented **Page Object Model (POM)** for maintainability and scalability.  
